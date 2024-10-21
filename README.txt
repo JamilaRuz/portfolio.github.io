@@ -1,32 +1,27 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Jamila Ruzimetova | iOS Developer Portfolio
 
+👋 About Me
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+Hello! I'm Jamila Ruzimetova, an iOS Developer with a passion for creating elegant and functional mobile applications. With over 3 years of hands-on development experience and a background in leadership as a former CEO and project manager, I bring a unique perspective to software development, ensuring both technical excellence and a strong focus on user experience.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+💼 Professional Background
+iOS Developer with expertise in Swift and Xcode.
 
-(* = not included)
+🛠️ Technical Skills
+Languages: Swift
+Frameworks: UIKit, SwiftUI, CoreData
+Tools: Xcode, Git, Firebase, RESTful APIs
+Development: Agile methodologies, Test-Driven Development (TDD)
+Other: App Store submission, version control
 
-AJ
-aj@lkn.io | @ajlkn
+🚀 Projects
+1. Immigrant Entrepreneurs of Canada iOS App
+A mobile app that supports the immigrant entrepreneur community in Ottawa by offering resources, networking, and business tools.
 
+Tech Stack: Swift, SwiftUI, Firebase
+Features: User authentication, real-time database, push notifications.
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+📫 Contact Me
+Email: j.ruzimetova@gmail.com
+LinkedIn: www.linkedin.com/in/jamila-ruzimetova-1bb182227
+GitHub: github.com/jamilaruz
